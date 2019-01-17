@@ -4,6 +4,10 @@
     "description": "Salt Plain themes",
     "publisher": "discus-lang",
     "version": "0.0.1",
+    "repository": {
+	"type": "git",
+	"url": "git://github.com/discus-lang/salt-theme.git"
+    },
     "engines": {
         "vscode": "^1.30.0"
     },
