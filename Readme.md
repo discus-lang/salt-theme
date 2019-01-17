@@ -1,4 +1,4 @@
-# Salt Plain Visual Studio Code theme
+# Salt Plain Visual Studio Code Theme
 
 A minimal dark theme with a slight chroma, fixed to work well with the Haskell and Salt language extensions.
 
