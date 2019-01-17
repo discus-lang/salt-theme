@@ -1,7 +1,7 @@
-# Salt Plain Theme
+# Salt Visual Studio Code theme
 
 Minimal dark theme with a slight chroma, fixed to work well with the Haskell and Salt language extensions.
 
-These were based on the mno (monochrome) theme by `u29dc/mno` available from https://github.com/u29dc/mno.
+Based on the mno (monochrome) theme by `u29dc/mno` available from https://github.com/u29dc/mno.
 
-![derp](doc/salt-plain-dark.png)
+![derp](doc/salt-plain-dark.jpg)
