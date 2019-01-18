@@ -20,7 +20,12 @@
                 "label": "Salt Plain Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/salt-plain-dark.json"
+            }, {
+                "label": "Salt Plain Light",
+                "uiTheme": "vs",
+                "path": "./themes/salt-plain-light.json"
             }
+
         ]
     }
 }
